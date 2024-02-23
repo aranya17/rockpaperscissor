@@ -9,7 +9,7 @@ h1{
     color: #f5cce8;
     height:5rem;
     line-height: 5rem;
-    font-size:20px;
+    font-size:25px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -47,7 +47,7 @@ img {
 }
 
 #user,#comp {
-    font-size: 3rem;
+    font-size:3rem;
     color: black;
 }
 
@@ -58,7 +58,7 @@ img {
 #msg{
     background-color:#4a2040;
     color:#f5cce8;
-    font-size: 15px;
+    font-size: 20px;
     display:inline;
     padding: 1rem;
     border-radius: 1rem;
